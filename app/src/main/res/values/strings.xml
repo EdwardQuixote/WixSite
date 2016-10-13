@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WixSite</string>
+
+    <string name="txtSelectWebsite">Select Website here:</string>
+    <string name="txtWebViewArea">Website will load below:</string>
+
+    <string-array name="saryWebsites">
+        <item>http://joanmuigai7.wixsite.com/website-1</item>
+        <item>http://joanmuigai7.wixsite.com/mysite</item>
+    </string-array>
+</resources>
